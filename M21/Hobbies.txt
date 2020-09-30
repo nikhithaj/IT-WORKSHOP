@@ -1,0 +1,21 @@
+
+<html>
+    <head>
+        <body>
+           <h4> My Hobbies</h4> 
+            <li> Singing</li>           
+            <img src="image2.jfif" width="300" height="200">
+             <li>Shuttle</li>
+             <img src="image3.jpg" width="300" height="200">
+             <li> Gardening</li>
+             <img src="image4.jpg" width="300" height="200">
+             <li>Cooking</li>
+             <img src="image5.jpg" width="300" height="200">
+             <li>Hangout with best friends </li>
+             <img src="image6.jfif" width="300" height="200">
+             <li>Traveling </li>
+             <img src="image7.jpg" width="300" height="200">
+</ul>
+        </body>
+    </head>
+</html>

@@ -1,0 +1,28 @@
+body {
+    background-color:lightpink;
+  }
+  
+  h1 {
+    background: navy);
+    color: navy;
+    text-align: center;
+    margin: 5px;  
+  }
+  
+   p {
+       
+       text-align: center
+       width:40px;
+       height: 30px; 
+     }
+
+     a { 
+color: navy;
+
+     }
+   
+   a:hover {
+     color: rgb(105, 250, 255);
+   }
+   
+  
