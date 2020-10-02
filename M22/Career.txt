@@ -1,7 +1,6 @@
 <html>
     <head>
-      <body>  
-        <link rel="stylesheet" href="Career.css">   
+      <body>     
 <table style=" height = 100% width:100 %" border =3>
     <tr>
       <th>Firstname</th>
