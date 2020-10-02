@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title> MY WORLD</title>
+    </head>
+            <body>
+                <h1> Welcome to my world</h1>
+                <nav>
+                    <a href="About.html">About</a><br/>
+                    <a href="Career.html">Career</a><br/>
+                    <a href="Hobbies.html">Hobbies</a><br/>
+                    <a href="Signup.html">Signup</a><br/>
+
+                </nav>
+            </body>
+
+    </head>
+</html>
